@@ -3,7 +3,7 @@
   Olá, seja bem-vindo ao meu GitHub! &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <img src="GIF/ola.gif" width="40px" />
 </h1>
-<img src = "GIF/banner.gif" width = "650px" align = "right">
+<img src = "GIF/Banner.gif" width = "650px" align = "right">
 
 <br/>
 
@@ -34,6 +34,8 @@
 - **🔹Monitoramento de Sistemas.**
 - **🔹Análise de Dados.**
 - **🔹Desenvolvimento Web.**
+
+<br/>
 
 🚀 Apaixonado por tecnologia, busco sempre criar soluções eficientes e escaláveis. 
 
