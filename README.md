@@ -1,6 +1,6 @@
 # 👋😊 Olá, seja bem-vindo ao meu GitHub!
 
-<img src = "Banner.gif" width = "650px" align = "right">
+<img src = "Banner.gif" width = "300px" align = "right">
 
 <div id="badges">
   <a href = "https://github.com/Weslley-Inocencio">
