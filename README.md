@@ -52,11 +52,3 @@
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weslley-Inocencio&show_icons=true&locale=pt-br&theme=tokyonight&count_private=true"/>
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Weslley-Inocencio&show_icons=true&show_icons=true&locale=pt-br&theme=tokyonight&count_private=true" />
 </div>
----
-
-<div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weslley-Inocencio&show_icons=true&locale=pt-br&theme=tokyonight&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Weslley-Inocencio&show_icons=true&show_icons=true&locale=pt-br&theme=tokyonight&count_private=true" />
-</div>
-
-
