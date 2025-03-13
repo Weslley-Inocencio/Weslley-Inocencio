@@ -41,8 +41,6 @@
 
 <br/>
 
----
-
 <p align="center">
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Weslley-Inocencio&style=flat&color=blue"/> •   
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Weslley-Inocencio?label=Followers&style=social"/> •
@@ -58,16 +56,15 @@
 
 ---
 
-### 📊 **LINGUAGEM E FERRAMENTAS:**
-
-<div>
+<h3 align="center"> 📊 LINGUAGEM E FERRAMENTAS:</h3>
+<p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Shell Script" alt="Shell Script" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-</div>
+</p>
 
 ---
 
